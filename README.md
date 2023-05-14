@@ -8,7 +8,7 @@ programa que leia o PESO e a ALTURA e apresente o
 resultado conforme a tabela a seguir:
 
 
-<img src="https://github.com/alfredo003/calcIMC/blob/main/public/img/imc.png" width="128"/>
+<img src="https://github.com/alfredo003/calcIMC/blob/main/public/img/imc.png" />
 
 
 # Resolution
@@ -18,7 +18,6 @@ resultado conforme a tabela a seguir:
 3. Refatorei o codigo usando algumas funções do javascript como Number.parseFloat,ToFixed() entre outros para tornar o programa mas beautiful .
 
 # screen
-
-<img src="./public/1.png">
-<img src="./public/2.png">
+<img src="https://github.com/alfredo003/calcIMC/blob/main/public/img/1.png" />
+<img src="https://github.com/alfredo003/calcIMC/blob/main/public/img/2.png" />
 
