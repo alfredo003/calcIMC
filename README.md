@@ -7,7 +7,8 @@ divisão do PESO pelo quadrado da ALTURA. Escreva um
 programa que leia o PESO e a ALTURA e apresente o
 resultado conforme a tabela a seguir:
 
-<img src="./public/imc.png">
+![plot]([./directory_1/directory_2/.../directory_n/plot.png](https://github.com/alfredo003/calcIMC/blob/main/public/img/imc.png)
+
 
 
 # Resolution
